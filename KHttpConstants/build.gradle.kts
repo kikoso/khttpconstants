@@ -46,11 +46,11 @@ dependencies {
 }
 
 mavenPublishing {
-    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL)
+    publishToMavenCentral(SonatypeHost.DEFAULT)
 
     signAllPublications()
 
-    coordinates(group.toString(), "khttpconstants", version.toString())
+    coordinates("com.github.kikoso", "khttpconstants", "1.0.0")
 
     pom {
         name = "KHttpConstants"
