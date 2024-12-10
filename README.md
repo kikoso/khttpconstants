@@ -2,7 +2,7 @@
 
 **KHttpConstants** is a Kotlin library that provides a set of pre-defined constants for commonly used HTTP headers and status codes. It's designed to simplify HTTP-related development by offering a consistent and easy-to-use API across different platforms.
 
-![Screenshot](https://raw.githubusercontent.com/kikoso/khttpconstants/refs/heads/main/art/screenshot1.jpg?token=GHSAT0AAAAAACA6PHOFJMH4KRS2Q5CYHHAWZ2X4ZZA)
+![Screenshot](https://raw.githubusercontent.com/kikoso/khttpconstants/refs/heads/main/art/screenshot1.jpg?token=GHSAT0AAAAAACA6PHOFATZ5CJ6UUBLZ53K6Z2X5BHQ)
 
 ---
 
