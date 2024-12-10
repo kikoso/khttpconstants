@@ -56,7 +56,7 @@ mavenPublishing {
         name = "KHttpConstants"
         description = "KHttpConstants is a Kotlin Multiplatform library that provides a set of pre-defined constants for commonly used HTTP headers and status codes."
         inceptionYear = "2024"
-        url = "https://github.com/snappmobile/khttpconstants"
+        url = "https://github.com/kikoso/khttpconstants"
         licenses {
             license {
                 name = "Apache-2.0"
@@ -72,9 +72,9 @@ mavenPublishing {
             }
         }
         scm {
-            url = "https://github.com/snappmobile/khttpconstants"
-            connection = "scm:git:https://github.com/snappmobile/khttpconstants.git"
-            developerConnection = "scm:git:ssh://git@github.com:snappmobile/khttpconstants.git"
+            url = "https://github.com/kikoso/khttpconstants"
+            connection = "scm:git:https://github.com/kikoso/khttpconstants.git"
+            developerConnection = "scm:git:ssh://git@github.com:kikoso/khttpconstants.git"
         }
     }
 }
