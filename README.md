@@ -24,13 +24,13 @@ Add the following dependency to your project:
 
 ```kotlin
 dependencies {
-    implementation("com.example.khttpconstants:khttpconstants:1.0.0")
+    implementation("com.github.kikoso:khttpconstants:1.0.0")
 }
 ```
 
 ```groovy
 dependencies {
-    implementation 'com.example.khttpconstants:khttpconstants:1.0.0'
+    implementation 'com.github.kikoso:khttpconstants:1.0.0'
 }
 ```
 

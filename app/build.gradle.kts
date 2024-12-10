@@ -55,6 +55,6 @@ dependencies {
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.lifecycle.runtime.ktx)
 
-    implementation(project(":KHttpConstants"))
 
+    implementation("com.github.kikoso:khttpconstants:1.0.0")
 }
