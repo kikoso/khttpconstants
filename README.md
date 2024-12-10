@@ -1,6 +1,6 @@
 # KHttpConstants
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.example.khttpconstants)](https://search.maven.org/artifact/com.example.khttpconstants)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.kikoso:khttpconstants)](https://search.maven.org/artifact/com.github.kikoso:khttpconstants)
 [![License](https://img.shields.io/github/license/kikoso/khttpconstants)](https://www.apache.org/licenses/LICENSE-2.0)
 
 **KHttpConstants** is a Kotlin Multiplatform library that provides a set of pre-defined constants for commonly used HTTP headers and status codes. It's designed to simplify HTTP-related development by offering a consistent and easy-to-use API across different platforms.
